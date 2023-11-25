@@ -1,0 +1,14 @@
+C:\BMICalc\bin\Debug\net7.0\BMICalc.exe
+C:\BMICalc\bin\Debug\net7.0\BMICalc.deps.json
+C:\BMICalc\bin\Debug\net7.0\BMICalc.runtimeconfig.json
+C:\BMICalc\bin\Debug\net7.0\BMICalc.dll
+C:\BMICalc\bin\Debug\net7.0\BMICalc.pdb
+C:\BMICalc\obj\Debug\net7.0\BMICalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\BMICalc\obj\Debug\net7.0\BMICalc.AssemblyInfoInputs.cache
+C:\BMICalc\obj\Debug\net7.0\BMICalc.AssemblyInfo.cs
+C:\BMICalc\obj\Debug\net7.0\BMICalc.csproj.CoreCompileInputs.cache
+C:\BMICalc\obj\Debug\net7.0\BMICalc.dll
+C:\BMICalc\obj\Debug\net7.0\refint\BMICalc.dll
+C:\BMICalc\obj\Debug\net7.0\BMICalc.pdb
+C:\BMICalc\obj\Debug\net7.0\BMICalc.genruntimeconfig.cache
+C:\BMICalc\obj\Debug\net7.0\ref\BMICalc.dll
